@@ -2,11 +2,13 @@ body {
   font-family: sans-serif;
   background-color: #1a9e00;
   background-color: #005e75;
-  background-image: url("https://www.transparenttextures.com/patterns/diagmonds-light.png");
+  background-image: url("https://itmeo.com/public/webgradients_png/003%20Spring%20Warmth.png");
+  background-size: 600px 1000px
+}
 
-  background-size: 400px 300px;
-  border: 4px solid white;
 
+img{
+  max-width:100%;
 }
 
 h1 {

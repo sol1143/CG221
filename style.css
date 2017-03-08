@@ -3,7 +3,7 @@ body {
   background-color: #1a9e00;
   background-color: #005e75;
   background-image: url("https://itmeo.com/public/webgradients_png/003%20Spring%20Warmth.png");
-  background-size: 600px 1000px
+  background-size: 400px 1000px
 }
 
 
@@ -12,22 +12,28 @@ img{
 }
 
 header{
-  color: chocolate;
-  font-family: Garamond;
+  color: yellow;
+  font-family: 'Bodoni MT', Didot, 'didot LT STD', 'Hoefler Text', Garamond, 'Times New Roman', serif;
+  font-size: 40px;
 }
 
 h1 {
   text-align: center;
   color:orchid;
+
 }
 
 h2{
   color:plum;
-  font-family: Georgia;
+  font-family: futura, 'Trebuchet MS', Arial, sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 26px
 }
 
 p {
   text-align: left;
+  font-family:;
 }
 
 ul{

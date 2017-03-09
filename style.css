@@ -12,9 +12,15 @@ img{
 }
 
 header{
-  color: yellow;
   font-family: 'Bodoni MT', Didot, 'didot LT STD', 'Hoefler Text', Garamond, 'Times New Roman', serif;
   font-size: 40px;
+}
+
+.tag-line{
+  color: gray;
+  font-size: 27px;
+  font-family:futura;
+  text-align: center;
 }
 
 h1 {

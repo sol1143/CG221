@@ -8,6 +8,8 @@ body {
 h1 {
   text-align: center;
   color:orchid;
+  font-family: 'Space-Mono';
+  font-size: 40px;
 
 .tag-line{
   color: gray;

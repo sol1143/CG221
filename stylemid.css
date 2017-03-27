@@ -4,3 +4,14 @@ body {
   background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
   background-size: cover;
 }
+
+h1 {
+  text-align: center;
+  color:orchid;
+
+.tag-line{
+  color: gray;
+  font-size: 27px;
+  font-family:futura;
+  text-align: center;
+}

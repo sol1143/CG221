@@ -1,0 +1,228 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color:#F4EFEF;
+}
+
+#maincontainer {
+	width:1200px;
+	margin:0 auto;
+	padding: 20px;
+	border: dashed;
+	overflow: hidden;
+	
+	}
+
+	#helpedmonkeycontainer {
+	width:1600px;
+	height:900px;
+	margin:0 auto;
+	background-color:#F4EFEF;
+	border: dashed;
+	
+	}
+.helpedmonkey{
+	
+width:360px;
+	height: 350px;
+	float:left;
+	background-color:transparent;
+	margin:auto;
+	}
+
+
+.helpedlion {
+
+width:360px;
+	height: 350px;
+	float:left;
+	background-color:transparent;
+	margin:auto;	
+}
+
+.helpedbirdy {
+	height: 350px;
+	float:left;
+	background-color:transparent;
+	margin:auto;	
+	
+}
+
+
+
+.storyone{
+	font-size: 50px;
+	text-align: center;
+	font-family: 'Clicker Script', cursive;
+	border:medium
+}
+
+.storytwo{
+	font-size: 50px;
+	text-align: center;
+	font-family: 'Clicker Script', cursive;
+	border:medium
+
+}
+
+.storythree{
+	font-size: 50px;
+	text-align: center;
+	font-family: 'Clicker Script', cursive;
+	border:medium
+}
+.storyfour {
+
+	font-size: 50px;
+	text-align: center;
+	font-family: 'Clicker Script', cursive;
+	border:medium	
+	
+}
+
+
+.leopardmama {
+	font-size: 50px;
+	text-align: center;
+	font-family: 'Clicker Script', cursive;
+	border:medium	
+	
+}
+.babybirdy {
+	font-size: 50px;
+	text-align: center;
+	font-family: 'Clicker Script', cursive;
+	border:medium	
+	
+}
+
+
+.ignoredlion {
+	font-size: 50px;
+	text-align: center;
+	font-family: 'Clicker Script', cursive;
+	border:medium	
+	
+}
+.ignoredbirdy {
+	font-size: 50px;
+	text-align: center;
+	font-family: 'Clicker Script', cursive;
+	border:medium
+}
+h1 {
+	font-size:80px;
+	font-family:'Clicker Script', cursive;
+	text-align:center;
+	border-style: solid;
+	
+}
+
+.main {
+	margin-top:50px;
+	
+}
+.monkeystory {
+	width:360px;
+	height: 350px;
+	float:left;
+	background-color:transparent;
+	margin:20px;
+	
+	
+}
+
+.leopardstory {
+	width:360px;
+	height: 350px;
+	float:left;
+	background-color:transparent;
+	margin:20px;
+	
+}
+.birdstory {
+	width:360px;
+	height: 350px;
+	float: right;
+	background-color:transparent;
+	margin:20px;
+
+}
+
+
+
+.largetext {
+	color:#D56466;
+	text-align:center;
+	font-family:'Clicker Script', cursive;
+	font-size:30px;
+}
+
+	
+		
+.centercontent{
+	width:1500px;
+	height:500px;
+	background-color: transparent;
+	text-align:center;
+	align-items:center;
+	padding: 5px 1550px 60px 60px;
+	margin:50px;
+	clear:both;
+}
+
+.monkeysbanana {
+width:360px;
+	height: 350px;
+	float:left;
+	background-color:transparent;
+	margin:20px;
+		
+}
+
+.monkeywalkaway {
+	width:360px;
+	height: 350px;
+	float: right;
+	background-color:transparent;
+	margin:20px;
+
+}
+
+.leopardmap {
+	
+width:360px;
+	height: 350px;
+	float:left;
+	background-color:transparent;
+	margin:20px;
+}
+.birdnest {
+width:360px;
+	height: 350px;
+	float:left;
+	background-color:transparent;
+	margin:20px;	
+	
+}
+
+.leopardwalkaway {
+	width:360px;
+	height: 350px;
+	float: right;
+	background-color:transparent;
+	margin:20px;
+
+	
+}
+.birdwalkaway {
+	width:360px;
+	height: 350px;
+	float: right;
+	background-color:transparent;
+	margin:20px;
+	
+}
+
+
